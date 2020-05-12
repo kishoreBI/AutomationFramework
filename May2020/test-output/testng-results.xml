@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43579" started-at="2020-05-12T04:17:27Z" finished-at="2020-05-12T04:18:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43579" started-at="2020-05-12T04:17:27Z" finished-at="2020-05-12T04:18:11Z">
+      <class name="test.Search">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:test.Search@341b80b2]" name="beforeSuite" is-config="true" duration-ms="21" started-at="2020-05-12T09:47:27Z" finished-at="2020-05-12T09:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.Search@341b80b2]" name="beforeTest" is-config="true" duration-ms="0" started-at="2020-05-12T09:47:27Z" finished-at="2020-05-12T09:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:test.Search@341b80b2]" name="beforeClass" is-config="true" duration-ms="0" started-at="2020-05-12T09:47:27Z" finished-at="2020-05-12T09:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.Search@341b80b2]" name="beforeMethod" is-config="true" duration-ms="17732" started-at="2020-05-12T09:47:27Z" finished-at="2020-05-12T09:47:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchGoogle(java.lang.Integer, java.lang.String)[pri:0, instance:test.Search@341b80b2]" name="searchGoogle" duration-ms="2664" started-at="2020-05-12T09:47:45Z" data-provider="dp" finished-at="2020-05-12T09:47:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.Search@341b80b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-12T09:47:48Z" finished-at="2020-05-12T09:47:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:test.Search@341b80b2]" name="beforeMethod" is-config="true" duration-ms="23009" started-at="2020-05-12T09:47:48Z" finished-at="2020-05-12T09:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="searchGoogle(java.lang.Integer, java.lang.String)[pri:0, instance:test.Search@341b80b2]" name="searchGoogle" duration-ms="147" started-at="2020-05-12T09:48:11Z" data-provider="dp" finished-at="2020-05-12T09:48:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[TestNg]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchGoogle -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.Search@341b80b2]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-05-12T09:48:11Z" finished-at="2020-05-12T09:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:test.Search@341b80b2]" name="afterClass" is-config="true" duration-ms="0" started-at="2020-05-12T09:48:11Z" finished-at="2020-05-12T09:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.Search@341b80b2]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-05-12T09:48:11Z" finished-at="2020-05-12T09:48:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:test.Search@341b80b2]" name="afterSuite" is-config="true" duration-ms="1" started-at="2020-05-12T09:48:12Z" finished-at="2020-05-12T09:48:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- test.Search -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
